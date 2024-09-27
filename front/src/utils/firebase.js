@@ -5,7 +5,7 @@ import { getStorage, ref, uploadBytes, getDownloadURL } from 'firebase/storage';
 import { getAuth, signInWithEmailAndPassword } from 'firebase/auth'; // Correct import
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCOvFBKHaVgJaxbbzw4_EpBIxljKHTs_Go",
+  apiKey: "q",
   authDomain: "ogres-beads-workshop.firebaseapp.com",
   databaseURL: "https://ogres-beads-workshop-default-rtdb.firebaseio.com",
   projectId: "ogres-beads-workshop",
